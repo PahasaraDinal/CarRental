@@ -1,0 +1,17 @@
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\bin\Debug\Aybo drive assignment.exe.config
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\bin\Debug\Aybo drive assignment.exe
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\bin\Debug\Aybo drive assignment.pdb
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form1.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Properties.Resources.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo drive assignment.csproj.GenerateResource.Cache
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo drive assignment.exe
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo drive assignment.pdb
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form2.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo drive assignment.csprojResolveAssemblyReference.cache
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form3.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form4.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form5.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form6.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form8.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form7.resources
+D:\Programming\VS\Aybo drive assignment\Aybo drive assignment\obj\Debug\Aybo_drive_assignment.Form9.resources
